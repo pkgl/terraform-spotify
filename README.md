@@ -1,6 +1,6 @@
 # Spotify Playlist created by Terraform
 
-Foobar is a Python library for dealing with word pluralization.
+Create a spotify playlist with terraform 
 
 ## Installation
 
